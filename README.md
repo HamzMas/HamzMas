@@ -1,6 +1,9 @@
-### Hi, I'm Hamzah Masud 👋
+## Hi, I'm Hamzah Masud 👋
 
-- 🔭 I’m currently working on ...
+I'm a Junior Java Developer from the UK
+
+- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on [Mfix_MongoDB_API](https://github.com/JamesKempadoo/Mfix_MongoDB_API)
 
 ---
 
