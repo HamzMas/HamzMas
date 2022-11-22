@@ -14,6 +14,9 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
+[![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzMas)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **HamzMas/HamzMas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
