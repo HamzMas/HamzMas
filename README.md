@@ -16,7 +16,7 @@
 
 ---
 
-[![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzMas)](https://github.com/anuraghazra/github-readme-stats&count_private=true&bg_color=00000000)
+![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzMas&show_icons=true&theme=radical)
 
 
 <!--
