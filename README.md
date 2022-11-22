@@ -1,4 +1,4 @@
-# Hi, I'm Hamzah Masud 👋
+## Hi, I'm Hamzah Masud 👋
 
 - 🔭 I’m currently working on ...
 
