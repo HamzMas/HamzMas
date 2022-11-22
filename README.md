@@ -1,4 +1,6 @@
-# Hamzah Masud
+# Hi, I'm Hamzah Masud 👋
+
+- 🔭 I’m currently working on ...
 
 <!--
 **HamzMas/HamzMas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
