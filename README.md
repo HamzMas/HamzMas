@@ -16,7 +16,7 @@
 
 ---
 
-![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzMas&show_icons=true&theme=radical)
+![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzMas&show_icons=true&theme=github_dark)
 
 
 <!--
