@@ -3,7 +3,7 @@
 I'm a Junior Java Developer from the UK
 
 - 🌱 I’m currently learning Java
-- 🔭 I’m currently working on [Mfix_MongoDB_API](https://github.com/JamesKempadoo/Mfix_MongoDB_API)
+- 🔭 I’m currently working on [Advent of Code](https://github.com/HamzMas/advent-of-code)
 
 ---
 
