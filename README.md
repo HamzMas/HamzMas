@@ -3,7 +3,6 @@
 I'm a Junior Java Developer from the UK
 
 - 🌱 I’m currently learning Java
-- 🔭 I’m currently working on [Advent of Code](https://github.com/HamzMas/advent-of-code)
 
 ---
 
