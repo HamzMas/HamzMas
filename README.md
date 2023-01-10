@@ -2,7 +2,7 @@
 
 I'm a Junior Java Developer from the UK
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React with Spring Boot
 
 ---
 
@@ -14,7 +14,7 @@ I'm a Junior Java Developer from the UK
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg />
 <br />
 
 ---
