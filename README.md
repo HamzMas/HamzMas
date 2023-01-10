@@ -3,6 +3,7 @@
 I'm a Junior Java Developer from the UK
 
 - 🌱 I’m currently learning React with Spring Boot
+- 🔭 I’m currently working on [React Todo List](https://github.com/HamzMas/ReactTodoList)
 
 ---
 
