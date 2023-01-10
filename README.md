@@ -19,7 +19,7 @@ I'm a Junior Java Developer from the UK
 
 ---
 
-![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzMas&show_icons=true&theme=github_dark)
+![Hamzah's GitHub stats](https://github-readme-stats-hamzmas.vercel.app/api?username=HamzMas&show_icons=true&theme=github_dark)
 
 
 <!--
