@@ -1,8 +1,8 @@
 ## Hi, I'm Hamzah Masud 👋
 
-I'm a Junior Java Developer from the UK
+I'm a Junior Developer from the UK
 
-- 🌱 I’m currently learning React with Spring Boot
+- 🌱 I’m currently learning React
 - 🔭 I’m currently working on [Library Web App](https://github.com/HamzMas/LibraryWebApp)
 
 ---
