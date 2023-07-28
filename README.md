@@ -3,7 +3,7 @@
 I'm a Junior Developer from the UK
 
 - 🌱 I’m currently learning React
-- 🔭 I’m currently working on [Library Web App](https://github.com/HamzMas/LibraryWebApp)
+
 
 ---
 
@@ -26,8 +26,11 @@ I'm a Junior Developer from the UK
 
 
 <!--
-**HamzMas/HamzMas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on [Library Web App](https://github.com/HamzMas/LibraryWebApp)
+
+
+**HamzMas/HamzMas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
