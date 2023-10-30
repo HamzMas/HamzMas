@@ -1,9 +1,6 @@
 ## Hi, I'm Hamzah Masud 👋
 
-I'm a Junior Developer from the UK
-
-- 🌱 I’m currently learning React
-
+I'm a Software Developer from the UK
 
 ---
 
